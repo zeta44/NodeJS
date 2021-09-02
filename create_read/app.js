@@ -4,7 +4,7 @@ var mongoose = require("mongoose");
 const app = express();
 
 const port = 3000;
-const data_base = "mongodb+srv://nigerio_nigerio:nigerio_nigerio@cluster0.nsyro.mongodb.net/escola?retryWrites=true&w=majority"
+const data_base = "put your mongodb connection here"
 
 
 //DB-Connection
